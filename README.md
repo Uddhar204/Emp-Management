@@ -17,8 +17,8 @@ This project is intended for educational purposes and is a great way to practice
 
 ## 🧰 Technologies Used
 - **Language:** C
-- **Compiler:** GCC or any standard C compiler
-- **IDE (optional):** Code::Blocks / Turbo C / Dev-C++ / VS Code
+- **Compiler:** GCC
+- **IDE : VS code
 
 ---
 
