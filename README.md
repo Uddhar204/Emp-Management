@@ -22,4 +22,3 @@ This project is intended for educational purposes and is a great way to practice
 
 ---
 
-## 📁 File Structure
